@@ -16,5 +16,5 @@ my_list = list()
 
 list_lenth = int(input("Enter lenth of the list: "))
 fill_list(my_list, 0, list_lenth)
-#print("List: \n" + str(my_list))
+print("List: \n" + str(my_list))
 print_pair_numbers(my_list)
